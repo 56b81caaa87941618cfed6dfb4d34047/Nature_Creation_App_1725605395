@@ -5,8 +5,8 @@
     "metadata": {
         "markdownText": "<!-- \nINSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a line of text under it, and a button underneath it. They are all centre aligned.\n-->\n<template>\n    <section id=\"cta-component\" style=\"min-height: 470px\"   class=\"bg-gradient-to-br from-pink-500 to-purple-700 flex-1 min-h-[270px] p-8\">\n        <div id=\"cta-inner-container\" class=\"max-w-screen-xl mx-auto lg:py-16 lg:px-6\">\n            <div id=\"cta-content\" class=\"max-w-screen-sm mx-auto text-center bg-white bg-opacity-10 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg p-8\">\n                <div id=\"cta-title-container\" class=\"flex\">\n                    <h2 id=\"cta-title\" class=\"flex-1 mb-4 text-3xl font-extrabold leading-tight tracking-tight text-white\">\n                        Cultivate a Greener Tomorrow's\n                    </h2>\n                </div>\n                <div id=\"cta-subtitle-container\" class=\"flex\">\n                    <p id=\"cta-subtitle\" class=\"flex-1 mb-6 font-light text-pink-100 md:text-lg\">\n                        Join us in our mission to nurture and restore nature, one action at a time.\n                    </p>\n                </div>\n                <div id=\"cta-button-container\" class=\"flex\">\n                    <a id=\"cta-button\" href=\"#\" class=\"flex-1 text-purple-900 bg-pink-300 hover:bg-pink-400 focus:ring-4 focus:ring-pink-200 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105\">\n                        Start Growing\n                    </a>\n                </div>\n            </div>\n        </div>\n    </section>\n</template>\n\n<script>\nexport default {\n    data() {\n        return {\n            expanded: false,\n            tab: null\n        };\n    }\n};\n</script>\n"
     },
-    "w": 6,
-    "h": 13,
+    "w": 5,
+    "h": 11,
     "x": 0,
     "y": 12,
     "i": "1",
