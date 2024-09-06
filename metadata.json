@@ -4,5 +4,6 @@
     "project_description": "an app for making the nature",
     "creation_time": "2024-09-06 06:49:55.501105",
     "current_state": "The current state of the application has a navbar and a header",
-    "selected_starter_template_id": "landwind"
+    "selected_starter_template_id": "landwind",
+    "frontend_theme_prompt": "The image features a vivid, otherworldly landscape bathed in neon pink and purple hues, with mountainous silhouettes contrasted against a large, glowing planet and smaller celestial bodies in the background, evoking a dreamlike, sci-fi atmosphere."
 }
